@@ -12,7 +12,7 @@
 - ![Weather App Screenshot](Weather-App-Demo.png)
 
 ##  🌍 LIVE DEMO:
-- Try it Out: 
+- Try it Out: https://chrisw0987.github.io/Weather-App/
 
 ## 🛠 Tech Stack:
 - **Frontend:** React.js, Vite
